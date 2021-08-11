@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/css/main.a617e044.chunk.css",
+    "main.js": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/js/main.d5cbb114.chunk.js",
+    "main.js.map": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/js/main.d5cbb114.chunk.js.map",
+    "runtime-main.js": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/js/runtime-main.1be8cb07.js",
+    "runtime-main.js.map": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/js/runtime-main.1be8cb07.js.map",
+    "static/js/2.3a12c18f.chunk.js": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/js/2.3a12c18f.chunk.js",
+    "static/js/2.3a12c18f.chunk.js.map": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/js/2.3a12c18f.chunk.js.map",
+    "static/js/3.473da39e.chunk.js": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/js/3.473da39e.chunk.js",
+    "static/js/3.473da39e.chunk.js.map": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/js/3.473da39e.chunk.js.map",
+    "index.html": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3a12c18f.chunk.js.LICENSE.txt": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/js/2.3a12c18f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/http%3E//ribeiroferreiralucas.github.io/uber-converter/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1be8cb07.js",
+    "static/js/2.3a12c18f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d5cbb114.chunk.js"
+  ]
+}
