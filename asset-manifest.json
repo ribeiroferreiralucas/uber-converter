@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/uber-converter/static/css/main.a617e044.chunk.css",
-    "main.js": "/uber-converter/static/js/main.d5cbb114.chunk.js",
-    "main.js.map": "/uber-converter/static/js/main.d5cbb114.chunk.js.map",
-    "runtime-main.js": "/uber-converter/static/js/runtime-main.4bfd59f0.js",
-    "runtime-main.js.map": "/uber-converter/static/js/runtime-main.4bfd59f0.js.map",
-    "static/js/2.3a12c18f.chunk.js": "/uber-converter/static/js/2.3a12c18f.chunk.js",
-    "static/js/2.3a12c18f.chunk.js.map": "/uber-converter/static/js/2.3a12c18f.chunk.js.map",
-    "static/js/3.473da39e.chunk.js": "/uber-converter/static/js/3.473da39e.chunk.js",
-    "static/js/3.473da39e.chunk.js.map": "/uber-converter/static/js/3.473da39e.chunk.js.map",
+    "main.css": "/uber-converter/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/uber-converter/static/js/main.cb82c6f7.chunk.js",
+    "main.js.map": "/uber-converter/static/js/main.cb82c6f7.chunk.js.map",
+    "runtime-main.js": "/uber-converter/static/js/runtime-main.d860ae13.js",
+    "runtime-main.js.map": "/uber-converter/static/js/runtime-main.d860ae13.js.map",
+    "static/css/2.383c0125.chunk.css": "/uber-converter/static/css/2.383c0125.chunk.css",
+    "static/js/2.b0062a69.chunk.js": "/uber-converter/static/js/2.b0062a69.chunk.js",
+    "static/js/2.b0062a69.chunk.js.map": "/uber-converter/static/js/2.b0062a69.chunk.js.map",
+    "static/js/3.462eb934.chunk.js": "/uber-converter/static/js/3.462eb934.chunk.js",
+    "static/js/3.462eb934.chunk.js.map": "/uber-converter/static/js/3.462eb934.chunk.js.map",
     "index.html": "/uber-converter/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/uber-converter/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.3a12c18f.chunk.js.LICENSE.txt": "/uber-converter/static/js/2.3a12c18f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/uber-converter/static/media/logo.6ce24c58.svg"
+    "static/css/2.383c0125.chunk.css.map": "/uber-converter/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/uber-converter/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b0062a69.chunk.js.LICENSE.txt": "/uber-converter/static/js/2.b0062a69.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bfd59f0.js",
-    "static/js/2.3a12c18f.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.d5cbb114.chunk.js"
+    "static/js/runtime-main.d860ae13.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.b0062a69.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.cb82c6f7.chunk.js"
   ]
 }
